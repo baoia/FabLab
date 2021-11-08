@@ -1,0 +1,1899 @@
+[
+    {
+        "srw:searchretrieveresponse": {
+            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+            "@xmlns:ns5": "http://gallica.bnf.fr/namespaces/gallica/",
+            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+            "@xmlns:srw": "http://www.loc.gov/zing/srw/",
+            "srw:version": "1.2",
+            "srw:echoedsearchretrieverequest": {
+                "srw:query": "dc.title any joconde and dc.type any image",
+                "srw:version": "1.2"
+            },
+            "srw:numberofrecords": "35",
+            "srw:extraresponsedata": "<numberOfRecordsDecollapser>35</numberOfRecordsDecollapser>",
+            "srw:records": {
+                "srw:record": [
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1840",
+                                "dc:description": "Appartient à l’ensemble documentaire : Martinet2",
+                                "dc:format": [
+                                    "1 est. : eau-forte, en coul. ; 23 x 15 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b7001700m",
+                                "dc:publisher": "Martinet (Paris)",
+                                "dc:relation": [
+                                    "Joconde ou les coureurs d'aventure : opéra-comique en 3 actes / musique de Nicolo. - Paris : Théâtre de l'Opéra-Comique-Favart, ..-08-1840",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb397638120"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, BMO C-261 (15-1412)",
+                                "dc:subject": "Costume d'opéra",
+                                "dc:title": "[Joconde, opéra-comique de Nicolo et Etienne : costume de Mme Henri Potier (rôle de Jeannette)]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "0",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b7001700m.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b7001700m.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b7001700m.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b7001700m.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b7001700m",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b7001700m"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": ".. 1911",
+                                "dc:creator": "Agence Rol. Agence photographique",
+                                "dc:date": "1911",
+                                "dc:description": [
+                                    "Référence bibliographique : Rol, 16023",
+                                    "Appartient à l’ensemble documentaire : Pho20Rol"
+                                ],
+                                "dc:format": [
+                                    "1 photogr. nég. sur verre ; 13 x 18 cm (sup.)",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b53112009h",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40475255n",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, EI-13 (108)",
+                                "dc:subject": [
+                                    "Léonard de Vinci (1452-1519). La Joconde",
+                                    "Photographie de peinture",
+                                    "Photographie de presse -- 1900-1945"
+                                ],
+                                "dc:title": "La Joconde [tableau] : [photographie de presse] / [Agence Rol]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "1",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b53112009h.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b53112009h.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b53112009h.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b53112009h.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b53112009h",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b53112009h"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1855",
+                                "dc:format": [
+                                    "1 impr. photoméc. : n. et b. ; 15,5 x 24 cm.",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8405493n",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:relation": [
+                                    "La joconde : comédie en 5 actes / texte de Paul Foucher, Régnier. - Paris : Comédie-Française, 19-11-1855",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39515756f"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Arts du spectacle, 4-ICO THE-1034",
+                                "dc:title": "[La joconde, comédie de Paul Foucher et Régnier : défet de presse]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "2",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8405493n.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8405493n.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8405493n.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8405493n.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b8405493n",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8405493n"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Blondelet, E. (18..-19.. ; photographe amateur). Photographe",
+                                "dc:date": "1907-1920",
+                                "dc:format": [
+                                    "1 photogr. pos. directe sur verre : autochrome, coul. ; 12 x 9 cm (épr.)",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b6904449q",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb403061163",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, RESERVE EH9-18 (74)",
+                                "dc:subject": [
+                                    "Léonard de Vinci (1452-1519). La Joconde",
+                                    "Chromolithographie"
+                                ],
+                                "dc:title": "[\"La Joconde\" d'après Léonard de Vinci (v. 1503-1505) : chromolithographie] : [photographie] / [Eugène Blondelet]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "3",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b6904449q.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b6904449q.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b6904449q.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b6904449q.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b6904449q",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b6904449q"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1840",
+                                "dc:description": "Appartient à l’ensemble documentaire : Martinet2",
+                                "dc:format": [
+                                    "1 est. : eau-forte, en coul. ; 23 x 15 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b70018355",
+                                "dc:publisher": "Martinet (Paris)",
+                                "dc:relation": [
+                                    "Joconde ou les coureurs d'aventure : opéra-comique en 3 actes / musique de Nicolo. - Paris : Théâtre de l'Opéra-Comique-Favart, ..-08-1840",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39763811n"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, BMO C-261 (15-1411)",
+                                "dc:subject": "Costume d'opéra",
+                                "dc:title": "[Joconde, opéra-comique de Nicolo et Etienne : costume de Chollet (rôle de Joconde)]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "4",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b70018355.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b70018355.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b70018355.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b70018355.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b70018355",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b70018355"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1840",
+                                "dc:description": "Appartient à l’ensemble documentaire : Martinet2",
+                                "dc:format": [
+                                    "1 est. : eau-forte, en coul. ; 23 x 15 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b70014759",
+                                "dc:publisher": "Martinet (Paris)",
+                                "dc:relation": [
+                                    "Joconde ou les coureurs d'aventure : opéra-comique en 3 actes / musique de Nicolo. - Paris : Théâtre de l'Opéra-Comique-Favart, ..-08-1840",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39763813b"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, BMO C-261 (15-1413)",
+                                "dc:subject": "Costume d'opéra",
+                                "dc:title": "[Joconde, opéra-comique de Nicolo et Etienne : costume de Melle Berthault (rôle de Mathilde)]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "5",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b70014759.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b70014759.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b70014759.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b70014759.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b70014759",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b70014759"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1835",
+                                "dc:description": [
+                                    "Appartient à l’ensemble documentaire : IconMUS1",
+                                    "Appartient à l’ensemble documentaire : IconMUSNum",
+                                    "Appartient à l’ensemble documentaire : IconMUS0"
+                                ],
+                                "dc:format": [
+                                    "1 estampe : eau-forte et pointillé ; 19 x 14 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b84202239",
+                                "dc:publisher": "(Paris)",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb38642090m",
+                                    "Appartient à : Alexandrine-Marie-Agathe Gavaudan (1781-1850)",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb396056177"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Musique, Est.GavaudanA.007",
+                                "dc:subject": [
+                                    "Gavaudan, Émilie (1775-1837) -- Portraits",
+                                    "Isouard, Nicolò (177.-1818). [Joconde ou les coureurs d'aventures] -- Représentations",
+                                    "Portraits"
+                                ],
+                                "dc:title": "Alexandrine-Marie-Agathe Gavaudan dans \"Joconde\" de Nicolò / Paul L., d'après Marie Colin",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "6",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b84202239.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b84202239.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b84202239.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b84202239.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b84202239",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b84202239"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Maleuvre, Louis (1785-18.. ; graveur). Graveur",
+                                "dc:date": "1827",
+                                "dc:description": "Appartient à l’ensemble documentaire : Martinet2",
+                                "dc:format": [
+                                    "1 est. : eau-forte, en coul. ; 28,5 x 18,5 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b70014403",
+                                "dc:publisher": "Martinet (Paris)",
+                                "dc:relation": [
+                                    "Astolphe et Joconde ou Le coureur d'aventures : ballet-pantomime en deux actes / décors de Pierre-Luc Charles Cicéri. - Paris : Théâtre de l'Opéra-Le Peletier, 29-01-1827",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39758896v"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, BMO C-261 (6-587)",
+                                "dc:subject": "Costume d'opéra",
+                                "dc:title": "[Astolphe et Joconde ou le coureur d'aventures, ballet de Ferdinand Hérold et Jean-Louis Aumer : costumes de Paul (Joconde) et de Mme Anatole (la comtesse Mathilde) / gravés par Maleuvre]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "7",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b70014403.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b70014403.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b70014403.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b70014403.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b70014403",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b70014403"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1830",
+                                "dc:description": [
+                                    "Appartient à l’ensemble documentaire : IconMUS1",
+                                    "Appartient à l’ensemble documentaire : IconMUSNum",
+                                    "Appartient à l’ensemble documentaire : IconMUS0"
+                                ],
+                                "dc:format": [
+                                    "1 estampe : eau-forte et pointillé ; 19 x 14 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8420222w",
+                                "dc:publisher": "P. Legrand (Paris)",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb38642090m",
+                                    "Appartient à : Alexandrine-Marie-Agathe Gavaudan (1781-1850)",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39605616w"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Musique, Est.GavaudanA.006",
+                                "dc:subject": [
+                                    "Gavaudan, Émilie (1775-1837) -- Portraits",
+                                    "Isouard, Nicolò (177.-1818). [Joconde ou les coureurs d'aventures] -- Représentations",
+                                    "Portraits"
+                                ],
+                                "dc:title": "Alexandrine-Marie-Agathe Gavaudan dans \"Joconde\" de Nicolò / Paul L., d'après Alexandre Marie Colin",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "8",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8420222w.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8420222w.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8420222w.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8420222w.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b8420222w",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8420222w"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Potdevin. Lithographe",
+                                "dc:date": "1815-1848",
+                                "dc:description": [
+                                    "Appartient à l’ensemble documentaire : IconMUS1",
+                                    "Appartient à l’ensemble documentaire : IconMUSNum",
+                                    "Appartient à l’ensemble documentaire : IconMUS0"
+                                ],
+                                "dc:format": [
+                                    "1 est. : lithogr. ; 23,5 x 17,5 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8423448r",
+                                "dc:publisher": "Lith. Engelmann (Paris)",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb38642968x",
+                                    "Appartient à : Paul (17..-18.. ; danseur)",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39622592d"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Musique, Est.Paul003",
+                                "dc:subject": [
+                                    "Paul, Antoine (1798-1871) -- Portraits",
+                                    "Portraits"
+                                ],
+                                "dc:title": "M. Paul, de l'Académie royale de musique, dans le ballet \"Joconde\" / par Potdevin d'après Hte L.",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "9",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8423448r.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8423448r.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8423448r.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8423448r.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b8423448r",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8423448r"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": [
+                                    "Engelmann, Godefroy (1788-1839). Lithographe",
+                                    "Potdevin. Peintre du modèle"
+                                ],
+                                "dc:date": "1830",
+                                "dc:description": [
+                                    "Appartient à l’ensemble documentaire : IconMUS1",
+                                    "Appartient à l’ensemble documentaire : IconMUSNum",
+                                    "Appartient à l’ensemble documentaire : IconMUS0"
+                                ],
+                                "dc:format": [
+                                    "1 lithogr. ; 17 x 26,5 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8415483j",
+                                "dc:publisher": "[s.n.]",
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39617082q",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Musique, Est. Aumer 001",
+                                "dc:subject": [
+                                    "Aumer (1774-1833) -- Portraits",
+                                    "Portraits"
+                                ],
+                                "dc:title": "Le bailli (Mr Aumer) dans \"Joconde\", ballet (Académie royale de musique) / par Potdevin d'après H.te L., lith. de Engelmann",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "10",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8415483j.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8415483j.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8415483j.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8415483j.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b8415483j",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8415483j"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Morinet, Georges (18..-19.. ; dessinateur). Dessinateur de l'oeuvre reproduite",
+                                "dc:date": "1916",
+                                "dc:description": "Image d'Épinal",
+                                "dc:format": [
+                                    "1 est. : gravure sur bois en coul. ; 40 x 30 cm (f.)",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b55001749c",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "Pellerin et Cie, imp.-édit. [Epinal, 1916]",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb414117100",
+                                    "Appartient à : [Recueil. Images d'Epinal de la Maison Pellerin]. Tome 17, [1907-1979]",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41415144m"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, FOL-LI-59 (17)",
+                                "dc:subject": [
+                                    "Deboeuf, Mieke (18..-191.?)",
+                                    "Guerre mondiale (1914-1918)",
+                                    "Scènes historiques -- 1914-1945"
+                                ],
+                                "dc:title": "Imagerie d'Epinal. N° 120ter, La guerre 1914-1915 en images : faits, combats, épisodes, récits. La \"Joconde\" de l'Yser : [Miette Debeuf] : [estampe] / composition de Morinet",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "11",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b55001749c.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b55001749c.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b55001749c.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b55001749c.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b55001749c",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b55001749c"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "10 janvier 1920",
+                                "dc:creator": "Agence de presse Meurisse. Agence photographique",
+                                "dc:date": "1920",
+                                "dc:description": [
+                                    "Référence bibliographique : Meurisse, 78099",
+                                    "Appartient à l’ensemble documentaire : Pho20Meu",
+                                    "Image de presse"
+                                ],
+                                "dc:format": [
+                                    "1 photogr. nég. sur verre ; 13 x 18 cm (sup.) ou moins",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": [
+                                    "https://gallica.bnf.fr/ark:/12148/btv1b9033415w",
+                                    "Numéro commercial : Meurisse 78099"
+                                ],
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "(Paris)",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb404994249",
+                                    "Appartient à : [Recueil. Actualités 1919-09-08**1920-01-18. Agence Meurisse MEU 75267-78284]",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41576908m"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, EI-13 (2623)",
+                                "dc:title": "La réouverture des nouvelles salles du Louvre (\"La Joconde\") : [photographie de presse] / Agence Meurisse",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "12",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b9033415w.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b9033415w.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b9033415w.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b9033415w.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b9033415w",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b9033415w"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1...",
+                                "dc:description": [
+                                    "Appartient à l’ensemble documentaire : IconMUS1",
+                                    "Appartient à l’ensemble documentaire : IconMUSNum",
+                                    "Appartient à l’ensemble documentaire : IconMUS0",
+                                    "Illustrations"
+                                ],
+                                "dc:format": [
+                                    "1 estampe : grav. sur acier ; 12 x 8 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b8421269m",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb386423281",
+                                    "Appartient à : Louis-Emmanuel Jadin (1768-1853)",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39611155n"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Musique, Est.Jadin003",
+                                "dc:subject": "Jadin, Louis (1768-1853). [Joconde]",
+                                "dc:title": "Costumes de théâtre, Joconde, opéra-comique",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "13",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b8421269m.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b8421269m.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b8421269m.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b8421269m.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b8421269m",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b8421269m"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": [
+                                    "Alix, Pierre-Michel (1762-1817). Graveur",
+                                    "Saint-Fal (17..-18..). Dessinateur du modèle"
+                                ],
+                                "dc:date": "1816-1817",
+                                "dc:description": [
+                                    "Référence bibliographique : IFF19 ALIX (Pierre-Michel), p. 87",
+                                    "Référence bibliographique : IFF18 ALIX (Pierre-Michel), 231-242"
+                                ],
+                                "dc:format": [
+                                    "1 est. : gravure en taille-douce ; 19,6 x 30 cm (im.)",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b53230453m",
+                                "dc:language": "fre",
+                                "dc:publisher": "[Noël] (Paris)",
+                                "dc:relation": [
+                                    "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb46613014z",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb466131565"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, RESERVE EF-106 (5)-FOL",
+                                "dc:title": "Joconde. : [estampe] / Saint-Fal inv.t ; Alix sculp.t",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "14",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b53230453m.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b53230453m.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b53230453m.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b53230453m.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b53230453m",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b53230453m"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "18 novembre 1926",
+                                "dc:creator": "Agence de presse Meurisse. Agence photographique",
+                                "dc:date": "1926",
+                                "dc:description": [
+                                    "Référence bibliographique : Meurisse, 39912 A",
+                                    "Appartient à l’ensemble documentaire : Pho20Meu",
+                                    "Image de presse"
+                                ],
+                                "dc:format": [
+                                    "1 photogr. nég. sur verre ; 13 x 18 cm (sup.) ou moins",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": [
+                                    "https://gallica.bnf.fr/ark:/12148/btv1b90264070",
+                                    "Numéro commercial : Meurisse 39912 A"
+                                ],
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "(Paris)",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40499434m",
+                                    "Appartient à : [Recueil. Actualités 1926-07-01**1926-12-03. Agence Meurisse MEU 36317 A-40206 A]",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb415858654"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, EI-13 (2801)",
+                                "dc:title": "Tableau de la Joconde au Musée du Louvre : [photographie de presse] / Agence Meurisse",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "15",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b90264070.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b90264070.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b90264070.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b90264070.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b90264070",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b90264070"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Lecomte, Hippolyte (1781-1857). Dessinateur",
+                                "dc:date": "1827",
+                                "dc:format": [
+                                    "19 dess. : crayon, plume, aquarelle ; H. 215-240 x L. 155 mm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 19"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b84545116",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:relation": [
+                                    "Astolphe et Joconde ou Le coureur d'aventures : ballet-pantomime en deux actes / décors de Pierre-Luc Charles Cicéri. - Paris : Théâtre de l'Opéra-Le Peletier, 29-01-1827",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40915814b"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, D216-8 (1-19)",
+                                "dc:title": "[Astolphe et Joconde ou le coureur d'aventures : dix-neuf maquettes de costumes / par Hippolyte Lecomte]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "dessin",
+                                    "drawing"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "16",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b84545116.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b84545116.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b84545116.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b84545116.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b84545116",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b84545116"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Le Gray, Gustave (1820-1884). Photographe",
+                                "dc:date": "1855",
+                                "dc:description": "Collectionneur : Armand, Alfred (1805-1888). Collectionneur",
+                                "dc:format": [
+                                    "1 photogr. pos. montée sur carton : papier albuminé : d'après négatif sur plaque de verre au collodion ; 28,3 x 19 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b84577995",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40462813f",
+                                    "Appartient à : [Recueil. Photographies positives. Oeuvre de Gustave Le Gray] ; 12",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb42440960m"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, RESERVE FOL-EO-13 (1)",
+                                "dc:subject": "Peinture -- Reproduction (art)",
+                                "dc:title": "[Reproduction de la copie de la Joconde exécutée par Aimé Millet en 1848] : [photographie] / Gustave Le Gray",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "17",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b84577995.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b84577995.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b84577995.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b84577995.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b84577995",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b84577995"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Caron, Auguste (1806-18.. ; décorateur). Dessinateur",
+                                "dc:date": "1827",
+                                "dc:description": "Appartient à l’ensemble documentaire : Décors19",
+                                "dc:format": [
+                                    "1 dess. : aquarelle ; 252 x 360 mm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b70000657",
+                                "dc:relation": [
+                                    "Astolphe et Joconde ou Le coureur d'aventures : ballet-pantomime en deux actes / décors de Pierre-Luc Charles Cicéri. - Paris : Théâtre de l'Opéra-Le Peletier, 29-01-1827",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb397509381"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, BMO D-300 (7)",
+                                "dc:title": "[Astolphe et Joconde ou Le coureur d'aventures : esquisse de décor de l'acte II / Auguste Caron]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "dessin",
+                                    "drawing"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "18",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b70000657.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b70000657.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b70000657.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b70000657.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b70000657",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b70000657"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "24 mai 1918",
+                                "dc:creator": "Agence de presse Meurisse. Agence photographique",
+                                "dc:date": "1918",
+                                "dc:description": [
+                                    "Référence bibliographique : Meurisse, 67139",
+                                    "Appartient à l’ensemble documentaire : Pho20Meu",
+                                    "Image de presse"
+                                ],
+                                "dc:format": [
+                                    "1 photogr. nég. sur verre ; 13 x 18 cm (sup.) ou moins",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": [
+                                    "https://gallica.bnf.fr/ark:/12148/btv1b9030985b",
+                                    "Numéro commercial : Meurisse 67139"
+                                ],
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:publisher": "(Paris)",
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40499422m",
+                                    "Appartient à : [Recueil. Actualités 1918-03-13**1919-05-18. Agence Meurisse MEU 66562-72205]",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41574420m"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, EI-13 (2578)",
+                                "dc:subject": [
+                                    "Paris (France) -- Palais du Louvre",
+                                    "Paris (France) -- 1914-1918"
+                                ],
+                                "dc:title": "Le Musée du Louvre pendant la guerre : la salle de la Joconde : [photographie de presse] / Agence Meurisse",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "19",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b9030985b.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b9030985b.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b9030985b.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b9030985b.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b9030985b",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b9030985b"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Caron, Auguste (1806-18.. ; décorateur). Dessinateur",
+                                "dc:date": "1827",
+                                "dc:description": "Appartient à l’ensemble documentaire : Décors19",
+                                "dc:format": [
+                                    "1 dess. : aquarelle ; 263 x 365 mm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b7000064t",
+                                "dc:relation": [
+                                    "Astolphe et Joconde ou Le coureur d'aventures : ballet-pantomime en deux actes / décors de Pierre-Luc Charles Cicéri. - Paris : Théâtre de l'Opéra-Le Peletier, 29-01-1827",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39750937p"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, BMO D-300 (6)",
+                                "dc:title": "[Astolphe et Joconde ou Le coureur d'aventures : esquisse de décor de l'acte I / Auguste Caron]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "dessin",
+                                    "drawing"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "20",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b7000064t.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b7000064t.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b7000064t.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b7000064t.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b7000064t",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b7000064t"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "11 février 1912",
+                                "dc:creator": "Agence Rol. Agence photographique (commanditaire)",
+                                "dc:date": "1912",
+                                "dc:description": [
+                                    "Référence bibliographique : Rol, 18422",
+                                    "Appartient à l’ensemble documentaire : Pho20Rol",
+                                    "Appartient à l’ensemble documentaire : PACA1"
+                                ],
+                                "dc:format": [
+                                    "1 photogr. nég. sur verre ; 13 x 18 cm (sup.)",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b6918932p",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40476362f",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, EST EI-13 (135)",
+                                "dc:subject": [
+                                    "Carnavals",
+                                    "Publics",
+                                    "Nice (Alpes-Maritimes)",
+                                    "Photographie de presse -- 1900-1945"
+                                ],
+                                "dc:title": "11-2-12, Carnaval de Nice : char \"Au revoir par la Joconde\" : [photographie de presse] / [Agence Rol]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "21",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b6918932p.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b6918932p.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b6918932p.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b6918932p.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b6918932p",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b6918932p"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": "11 février 1912",
+                                "dc:creator": "Agence Rol. Agence photographique (commanditaire)",
+                                "dc:date": "1912",
+                                "dc:description": [
+                                    "Référence bibliographique : Rol, 18416",
+                                    "Appartient à l’ensemble documentaire : Pho20Rol",
+                                    "Appartient à l’ensemble documentaire : PACA1"
+                                ],
+                                "dc:format": [
+                                    "1 photogr. nég. sur verre ; 13 x 18 cm (sup.)",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b6918927c",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40476357v",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, EST EI-13 (135)",
+                                "dc:subject": [
+                                    "Carnavals",
+                                    "Publics",
+                                    "Nice (Alpes-Maritimes)",
+                                    "Photographie de presse -- 1900-1945"
+                                ],
+                                "dc:title": "11-2-12, Carnaval de Nice, les bandits de Pégomas emportant la Joconde : [photographie de presse] / [Agence Rol]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "photographie",
+                                    "photograph"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "22",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b6918927c.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b6918927c.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b6918927c.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b6918927c.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b6918927c",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b6918927c"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Cicéri, Pierre-Luc-Charles (1782-1868). Dessinateur",
+                                "dc:date": "1827",
+                                "dc:description": "Appartient à l’ensemble documentaire : Décors19",
+                                "dc:format": [
+                                    "1 dess. : aquarelle et crayon ; 357 x 525 mm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b7000066n",
+                                "dc:relation": [
+                                    "Astolphe et Joconde ou Le coureur d'aventures : ballet-pantomime en deux actes / décors de Pierre-Luc Charles Cicéri. - Paris : Théâtre de l'Opéra-Le Peletier, 29-01-1827",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39750939c"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, BMO ESQ CICERI-82",
+                                "dc:title": "[Astolphe et Joconde ou Le coureur d'aventures : esquisse de décor de l'acte II / Pierre-Luc Charles Cicéri]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "dessin",
+                                    "drawing"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "23",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b7000066n.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b7000066n.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b7000066n.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b7000066n.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b7000066n",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b7000066n"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Maleuvre, Louis (1785-18.. ; graveur). Graveur",
+                                "dc:date": "1827",
+                                "dc:description": "Appartient à l’ensemble documentaire : Martinet2",
+                                "dc:format": [
+                                    "1 est. : eau-forte, en coul. ; 28,5 x 18,5 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b7001584m",
+                                "dc:publisher": "Martinet (Paris)",
+                                "dc:relation": [
+                                    "Astolphe et Joconde ou Le coureur d'aventures : ballet-pantomime en deux actes / décors de Pierre-Luc Charles Cicéri. - Paris : Théâtre de l'Opéra-Le Peletier, 29-01-1827",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39758895h"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, BMO C-261 (6-586)",
+                                "dc:subject": "Costume d'opéra",
+                                "dc:title": "[Astolphe et Joconde ou le coureur d'aventures, ballet de Ferdinand Hérold et Jean-Louis Aumer : costume de Mlle Noblet (Edile) / gravé par Maleuvre]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "24",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b7001584m.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b7001584m.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b7001584m.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b7001584m.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b7001584m",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b7001584m"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Maleuvre, Louis (1785-18.. ; graveur). Graveur",
+                                "dc:date": "1827",
+                                "dc:description": "Appartient à l’ensemble documentaire : Martinet2",
+                                "dc:format": [
+                                    "1 est. : eau-forte, en coul. ; 28,5 x 18,5 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b70017382",
+                                "dc:publisher": "Martinet (Paris)",
+                                "dc:relation": [
+                                    "Astolphe et Joconde ou Le coureur d'aventures : ballet-pantomime en deux actes / décors de Pierre-Luc Charles Cicéri. - Paris : Théâtre de l'Opéra-Le Peletier, 29-01-1827",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb397588945"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, BMO C-261 (6-585)",
+                                "dc:subject": "Costume d'opéra",
+                                "dc:title": "[Astolphe et Joconde ou le coureur d'aventures, ballet de Ferdinand Hérold et Jean-Louis Aumer : costume de Mme Montessu (Jeannette) / gravé par Maleuvre]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe",
+                                    "engraving"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "25",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b70017382.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b70017382.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b70017382.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b70017382.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b70017382",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b70017382"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:creator": "Blanc, Joseph (1846-1904). Dessinateur du modèle",
+                                "dc:date": "1878-1900",
+                                "dc:format": [
+                                    "1 dess. : calque avec coul. ; 95 x 143 cm",
+                                    "image/jpeg",
+                                    "Nombre total de vues : 1"
+                                ],
+                                "dc:identifier": "https://gallica.bnf.fr/ark:/12148/btv1b53095073z",
+                                "dc:language": [
+                                    "fre",
+                                    "français"
+                                ],
+                                "dc:relation": [
+                                    "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb438418863",
+                                    "Appartient à : [Recueil. Dessins pour la frise décorative Histoire des Arts à travers les Âges] ; 17,02",
+                                    "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb43849611k"
+                                ],
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Bibliothèque nationale de France, département Estampes et photographie, en cours de cotation",
+                                "dc:subject": [
+                                    "Blanc, Joseph (1846-1904). Histoire des Arts à travers les Âges",
+                                    "Paris (France) -- Grand Palais",
+                                    "Scènes historiques -- 1870-1913"
+                                ],
+                                "dc:title": "[Histoire des Arts à travers les Âges]. [Partie de droite : repères -19 à -6 : Renaissance, Italie - Florence : détail : Personnages du bas - Joconde] : [dessin] : [dessin sur calque] / [Joseph Blanc]",
+                                "dc:type": [
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "dessin",
+                                    "drawing"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "26",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://gallica.bnf.fr/ark:/12148/btv1b53095073z.highres",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://gallica.bnf.fr/ark:/12148/btv1b53095073z.lowres",
+                            "medres": "https://gallica.bnf.fr/ark:/12148/btv1b53095073z.medres",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b53095073z.thumbnail",
+                            "typedoc": "images",
+                            "uri": "btv1b53095073z",
+                            "#text": "https://gallica.bnf.fr/ark:/12148/btv1b53095073z"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1920-01-01",
+                                "dc:description": [
+                                    "Collection : Fonds Bry",
+                                    "Date de publication : [1920?]",
+                                    "Période : 20e siècle",
+                                    "Adresse bibliographique : Paris-Tours, A. Papéghin, 24, rue des petites-écuries [26, rue Nationale et 33, rue de Bordeaux, E. Papéghin]",
+                                    "Référence de collection : Musée du Louvre ; 1",
+                                    "Cote : BRY 830",
+                                    "Provenance : Legs Bry 2002",
+                                    "Illustration : sépia"
+                                ],
+                                "dc:format": [
+                                    "8,8 x 13,3 cm",
+                                    "1 carte postale"
+                                ],
+                                "dc:identifier": "https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/idurl/1/4954",
+                                "dc:relation": "vignette : https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                                "dc:rights": "Tous droits réservés",
+                                "dc:source": "Médiathèque de la Communauté Urbaine d’Alençon",
+                                "dc:subject": [
+                                    "Léonard de Vinci (1452-1519). La Joconde -- Cartes postales",
+                                    "Musée du Louvre (Paris). Département des peintures"
+                                ],
+                                "dc:title": "Musée du Louvre. (Léonard de Vinci) La Joconde The Joconde",
+                                "dc:type": [
+                                    "Carte postale",
+                                    "image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "27",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "medres": "https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "typedoc": "images",
+                            "uri": "oai:bibliotheque-numerique-patrimoniale.cu-alencon.fr:1:4954",
+                            "#text": "https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/idurl/1/4954"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1920-01-01",
+                                "dc:description": [
+                                    "Collection : Fonds Bry",
+                                    "Date de publication : [1920?]",
+                                    "Période : 20e siècle",
+                                    "Adresse bibliographique : Paris-Tours, A. Papéghin, 24, rue des petites-écuries [26, rue Nationale et 33, rue de Bordeaux, E. Papéghin]",
+                                    "Référence de collection : Musée du Louvre ; 1",
+                                    "Cote : BRY 830",
+                                    "Provenance : Legs Bry 2002",
+                                    "Illustration : sépia"
+                                ],
+                                "dc:format": [
+                                    "8,8 x 13,3 cm",
+                                    "1 carte postale"
+                                ],
+                                "dc:identifier": "https:///idurl/1/4954",
+                                "dc:relation": "vignette : https:///i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                                "dc:rights": "Tous droits réservés",
+                                "dc:source": "Médiathèque de la Communauté Urbaine d’Alençon",
+                                "dc:subject": [
+                                    "Léonard de Vinci (1452-1519). La Joconde -- Cartes postales",
+                                    "Musée du Louvre (Paris). Département des peintures"
+                                ],
+                                "dc:title": "Musée du Louvre. (Léonard de Vinci) La Joconde The Joconde",
+                                "dc:type": [
+                                    "Carte postale",
+                                    "image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "28",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "https:///i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "https:///i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "medres": "https:///i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "https:///i/?IIIF=/bc/f7/95/22/bcf79522-dbef-4ccb-819f-0f55d1f8efa6/iiif/A610016201_C_BRY_BRY830_0001.tif/full/!256,256/0/default.jpg",
+                            "typedoc": "images",
+                            "uri": "oai::1:4954",
+                            "#text": "https:///idurl/1/4954"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": [
+                                    "19e siècle",
+                                    "48.871254, 2.337840",
+                                    "Paris, , France"
+                                ],
+                                "dc:creator": "Marcelin, Emile (1825-1887). Illustrateur",
+                                "dc:date": "1857-06-20",
+                                "dc:description": "Planche détachée du journal : \"Journal pour rire, journal amusant\", n° 77 du 20 juin 1857",
+                                "dc:format": "1 estampe (gravure)",
+                                "dc:identifier": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_03",
+                                "dc:language": "fre",
+                                "dc:publisher": "Journal amusant (Paris)",
+                                "dc:relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_03.jpg&size=128",
+                                "dc:rights": "domaine public",
+                                "dc:source": "Bibliothèque municipale de Bordeaux, Del. Carton 144/61 (3)",
+                                "dc:subject": [
+                                    "Isouard, Nicolò (177.-1818) -- Joconde, ou les Coureurs d'aventures",
+                                    "Opéras-comiques -- 19e siècle",
+                                    "Caricatures et dessins humoristiques",
+                                    "Presse satirique"
+                                ],
+                                "dc:title": [
+                                    "La 1re représentation de Joconde en 1810 (suite)",
+                                    "La première représentation de Joconde en 1810 (suite)"
+                                ],
+                                "dc:type": "estampes"
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "29",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_03.jpg&size=128",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_03.jpg&size=128",
+                            "medres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_03.jpg&size=128",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_03.jpg&size=128",
+                            "typedoc": "images",
+                            "uri": "oai:bibliotheque.bordeaux.fr:BordeauxS_B330636101_DP144_061_03",
+                            "#text": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_03"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": [
+                                    "19e siècle",
+                                    "48.871254, 2.337840",
+                                    "Paris, , France"
+                                ],
+                                "dc:creator": "Marcelin, Emile (1825-1887). Illustrateur",
+                                "dc:date": "1857-06-20",
+                                "dc:description": "Planche détachée du journal : \"Journal pour rire, journal amusant\", n° 77 du 20 juin 1857",
+                                "dc:format": "1 estampe (gravure)",
+                                "dc:identifier": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_02",
+                                "dc:language": "fre",
+                                "dc:publisher": "Journal amusant (Paris)",
+                                "dc:relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_02.jpg&size=128",
+                                "dc:rights": "domaine public",
+                                "dc:source": "Bibliothèque municipale de Bordeaux, Del. Carton 144/61 (2)",
+                                "dc:subject": [
+                                    "Isouard, Nicolò (177.-1818) -- Joconde, ou les Coureurs d'aventures",
+                                    "Opéras-comiques -- 19e siècle",
+                                    "Caricatures et dessins humoristiques",
+                                    "Presse satirique"
+                                ],
+                                "dc:title": [
+                                    "La 1re représentation de Joconde en 1810 (suite)",
+                                    "La première représentation de Joconde en 1810 (suite)"
+                                ],
+                                "dc:type": "estampes"
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "30",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_02.jpg&size=128",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_02.jpg&size=128",
+                            "medres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_02.jpg&size=128",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_02.jpg&size=128",
+                            "typedoc": "images",
+                            "uri": "oai:bibliotheque.bordeaux.fr:BordeauxS_B330636101_DP144_061_02",
+                            "#text": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_02"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": [
+                                    "19e siècle",
+                                    "48.871254, 2.337840",
+                                    "Paris, , France"
+                                ],
+                                "dc:creator": "Marcelin, Emile (1825-1887). Illustrateur",
+                                "dc:date": "1857-06-20",
+                                "dc:description": "Planche détachée du journal : \"Journal pour rire, journal amusant\", n° 77 du 20 juin 1857",
+                                "dc:format": "1 estampe (gravure)",
+                                "dc:identifier": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_04",
+                                "dc:language": "fre",
+                                "dc:publisher": "Journal amusant (Paris)",
+                                "dc:relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_04.jpg&size=128",
+                                "dc:rights": "domaine public",
+                                "dc:source": "Bibliothèque municipale de Bordeaux, Del. Carton 144/61 (4)",
+                                "dc:subject": [
+                                    "Isouard, Nicolò (177.-1818) -- Joconde, ou les Coureurs d'aventures",
+                                    "Opéras-comiques -- 19e siècle",
+                                    "Caricatures et dessins humoristiques",
+                                    "Presse satirique"
+                                ],
+                                "dc:title": [
+                                    "La 1re représentation de Joconde en 1810 (suite)",
+                                    "La première représentation de Joconde en 1810 (suite)"
+                                ],
+                                "dc:type": "estampes"
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "31",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_04.jpg&size=128",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_04.jpg&size=128",
+                            "medres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_04.jpg&size=128",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_04.jpg&size=128",
+                            "typedoc": "images",
+                            "uri": "oai:bibliotheque.bordeaux.fr:BordeauxS_B330636101_DP144_061_04",
+                            "#text": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_04"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:coverage": [
+                                    "19e siècle",
+                                    "48.871254, 2.337840",
+                                    "Paris, , France"
+                                ],
+                                "dc:creator": "Marcelin, Emile (1825-1887). Illustrateur",
+                                "dc:date": "1857-06-20",
+                                "dc:description": "Planche détachée du journal : \"Journal pour rire, journal amusant\", n° 77 du 20 juin 1857",
+                                "dc:format": "1 estampe (gravure)",
+                                "dc:identifier": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_01",
+                                "dc:language": "fre",
+                                "dc:publisher": "Journal amusant (Paris)",
+                                "dc:relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_01.jpg&size=128",
+                                "dc:rights": "domaine public",
+                                "dc:source": "Bibliothèque municipale de Bordeaux, Del. Carton 144/61 (1)",
+                                "dc:subject": [
+                                    "Isouard, Nicolò (177.-1818) -- Joconde, ou les Coureurs d'aventures",
+                                    "Opéras-comiques -- 19e siècle",
+                                    "Caricatures et dessins humoristiques",
+                                    "Presse satirique"
+                                ],
+                                "dc:title": "Théâtre de l'Opéra-comique. Reprise de Joconde, les vrais costumes de la première représentation en 1810",
+                                "dc:type": "estampes"
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "32",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_01.jpg&size=128",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_01.jpg&size=128",
+                            "medres": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_01.jpg&size=128",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_DP144_061_01.jpg&size=128",
+                            "typedoc": "images",
+                            "uri": "oai:bibliotheque.bordeaux.fr:BordeauxS_B330636101_DP144_061_01",
+                            "#text": "http://bibliotheque.bordeaux.fr/in/faces/details.xhtml?id=h::BordeauxS_B330636101_DP144_061_01"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "1966",
+                                "dc:description": "Affiche illustrée",
+                                "dc:format": [
+                                    "1 impr. photomec. ; 77 x 58 cm",
+                                    "image/jpeg"
+                                ],
+                                "dc:identifier": "http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002142355",
+                                "dc:language": "fre",
+                                "dc:publisher": "Ets St Martin",
+                                "dc:relation": "vignette : http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002142355&mat=Poster",
+                                "dc:rights": [
+                                    "domaine public",
+                                    "public domain"
+                                ],
+                                "dc:source": "Ville de Paris / BHVP, 1-AFF-002050",
+                                "dc:subject": "Affiches de cinéma",
+                                "dc:title": "On a volé la Joconde [film de Michel Deville , co-produit par les Films Marceau - Cocinor Paris et Liber Film Rome] : [affiche]",
+                                "dc:type": [
+                                    "image",
+                                    "image fixe",
+                                    "still image"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "33",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002142355&mat=Poster",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002142355&mat=Poster",
+                            "medres": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002142355&mat=Poster",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "http://bibliotheques-specialisees.paris.fr/in/rest/Thumb/image?id=p::usmarcdef_0002142355&mat=Poster",
+                            "typedoc": "images",
+                            "uri": "oai:bibliotheques-specialisees.paris.fr:ark:/73873/pf0002142355",
+                            "#text": "http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002142355"
+                        }
+                    },
+                    {
+                        "srw:recordschema": "http://www.openarchives.org/OAI/2.0/OAIdc.xsd",
+                        "srw:recordpacking": "xml",
+                        "srw:recorddata": {
+                            "oai_dc:dc": {
+                                "dc:date": "s.d.",
+                                "dc:description": [
+                                    "Référence de l'image dans la banque d'images : CIPB1177. - Nombre d'images dans le lot : 1",
+                                    "Gravure - Bois"
+                                ],
+                                "dc:format": "image/jpeg",
+                                "dc:identifier": "http://www.biusante.parisdescartes.fr/histmed/image?CIPB1177",
+                                "dc:relation": [
+                                    "vignette : http://www.biusante.parisdescartes.fr/images/banque/pt/CIPB1177.jpg",
+                                    "thumbnail : http://www.biusante.parisdescartes.fr/images/banque/pt/CIPB1177.jpg",
+                                    "http://www.biusante.parisdescartes.fr/images/banque/pt/CIPB1177.jpg"
+                                ],
+                                "dc:rights": "Licence ouverte. - BIU Santé",
+                                "dc:source": "Cote : CIPB1177",
+                                "dc:title": "Archer de Darius ; Léonard de Vinci ; Raphael ; Rembrandt ; Rubens ; Van Dyck ; Louis XIV ; Marie Leczinska ; Victor Hugo / Seti Ier ; Carmencita ; Meissonier ; La Joconde ; Marie Mancini ; Reynolds ; D. Vierge ; De Médicis ; Jeanne d'Arc",
+                                "dc:type": [
+                                    "image",
+                                    "image fixe",
+                                    "image",
+                                    "still image",
+                                    "estampe"
+                                ]
+                            }
+                        },
+                        "srw:recordidentifier": "ark",
+                        "srw:recordposition": "34",
+                        "srw:extrarecorddata": {
+                            "epubfile": null,
+                            "highres": "http://www.biusante.parisdescartes.fr/images/banque/pt/CIPB1177.jpg",
+                            "infosupmodifiable": null,
+                            "link": null,
+                            "lowres": "http://www.biusante.parisdescartes.fr/images/banque/pt/CIPB1177.jpg",
+                            "medres": "http://www.biusante.parisdescartes.fr/images/banque/pt/CIPB1177.jpg",
+                            "nqamoyen": "0.0",
+                            "thumbnail": "http://www.biusante.parisdescartes.fr/images/banque/pt/CIPB1177.jpg",
+                            "typedoc": "images",
+                            "uri": "oai:biusante.parisdescartes.fr:image_CIPB1177",
+                            "#text": "http://www.biusante.parisdescartes.fr/histmed/image?CIPB1177"
+                        }
+                    }
+                ]
+            },
+            "srw:nextrecordposition": "50"
+        }
+    }
+]
